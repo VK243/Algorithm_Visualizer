@@ -895,3 +895,9 @@
 1526093414 c:\program files\codeblocks\mingw\x86_64-w64-mingw32\include\gl\glu.h
 	<GL/gl.h>
 
+1653210905 source:c:\dev\algorithm_visualizer\github\algorithm_visualizer\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<GL\glut.h>
+
